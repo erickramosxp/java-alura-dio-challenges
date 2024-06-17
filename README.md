@@ -10,6 +10,7 @@ Repositório unificado reunindo desafios de código, projetos práticos de Progr
 
 | Pasta | Tecnologias | Descrição | Período |
 | :--- | :--- | :--- | :--- |
+| [`00-java-oop-fundamentals`](./00-java-oop-fundamentals) | Java / POO | +40 exercícios práticos de lógica, condicionais, loops, herança, polimorfismo e interfaces | Abr/2024 |
 | [`01-screenmatch-poo`](./01-screenmatch-poo) | Java / POO | Sistema de catálogo de filmes e séries aplicando orientação a objetos, listas e interfaces | Abr/2024 |
 | [`02-conversion-coin`](./02-conversion-coin) | Java / HttpClient / Gson | **Challenge Alura:** Conversor de moedas em tempo real consumindo API de taxas de câmbio | Abr/2024 |
 | [`03-conta-banco-dio`](./03-conta-banco-dio) | Java CLI | **Desafio Santander DIO:** Simulação de abertura de conta bancária via terminal interativo | Abr/2024 |
